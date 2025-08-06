@@ -32,8 +32,6 @@ public class AcompanhamentoDeEstudo {
                     System.out.println("Programa encerrado!! ");
                     break;
                 }
-                System.out.println("Quantos dias você estudou? ");
-                dias = sc.nextInt();
 
                 System.out.print("Quantas paginas você leu hoje: ");
                 paginasLidas = sc.nextInt();
