@@ -20,7 +20,7 @@ public class AcompanhamentoDeEstudo {
 
             if(horasEstudadas == -1){
                 System.out.println("---------------------------------------------------------------");
-                System.out.println("Proograma encerrado!! ");
+                System.out.println("Programa encerrado!! ");
                 break;
             }
             System.out.print("Quantas paginas você leu hoje: ");
@@ -28,7 +28,7 @@ public class AcompanhamentoDeEstudo {
 
             if(paginasLidas == -1){
                 System.out.println("---------------------------------------------------------------");
-                System.out.println("Proograma encerrado!! ");
+                System.out.println("Programa encerrado!! ");
                 break;
             }
             mediaEstudo = (double)paginasLidas/horasEstudadas;
